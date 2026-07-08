@@ -1,0 +1,8 @@
+streamlit>=1.36
+pandas>=2.2
+openpyxl>=3.1
+plotly>=5.22
+requests>=2.32
+keyring>=25.2
+pyinstaller>=6.8
+pywin32>=306; platform_system == "Windows"

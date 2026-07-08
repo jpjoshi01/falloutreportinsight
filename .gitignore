@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/attachments/
