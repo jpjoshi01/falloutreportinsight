@@ -9,3 +9,8 @@ data/*.db
 data/*.sqlite
 data/*.sqlite3
 data/attachments/
+data/
+*.xlsx
+*.xls
+*.xlsm
+*.zip
