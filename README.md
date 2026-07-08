@@ -6,7 +6,7 @@ Local Streamlit dashboard for comparing migration fallout Excel reports, storing
 
 - Upload two Excel reports and compare old vs new.
 - Select two previously stored reports from SQLite.
-- Automatically decide the latest report from filenames like `Telenet SDB B2B Fallout Report_20260611113050.xlsx`.
+- Automatically decide the latest report from filenames like `  Report_20260611113050.xlsx`.
 - Parse every workbook sheet and preserve the full sheet data.
 - Dynamically normalize columns such as `Rule Name`, `Validation Name`, `Table Name`, `Count of Fallouts`, `Count of customers`, and `Impacted customers`.
 - Calculate new, resolved, increased, reduced, top fallout, customer impact, and table-wise summaries.
